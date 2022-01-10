@@ -1,4 +1,4 @@
-# Hello there, I'm <span style="color:#00B2CA">@joshuasello</span>
+# Hello there, I'm @joshuasello
 
 ![](https://komarev.com/ghpvc/?username=joshuasello)
 
@@ -30,6 +30,7 @@ Currently, I am trying to master:
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
-## Get in touc
+## Get in touch
 
 Im alway keen to collaborate on cool projects so please feel free to shoot me an email at [joshuasello@gmail.com](mailto:joshuasello@gmail.com).
+
